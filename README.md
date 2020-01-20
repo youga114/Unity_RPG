@@ -1,4 +1,2 @@
-# Unity_test
-간단한 유니티 실습
-
-스크립트 코드: Assets/Scripts
+# Unity_RPG
+유니티를 이용한 간단한 RPG
